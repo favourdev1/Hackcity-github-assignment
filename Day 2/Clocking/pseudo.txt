@@ -1,1 +1,10 @@
-loading...
+###Pseudo code that reminds a worker to clock every one hour
+
+create variable start_w_hour =8.00 and end_w_hour=17.00
+create variable minutes =0
+time = start_w_hour
+while (time <=end_w_hour)
+count minutes  up to 60
+once minutes is 60 print a message to alert the worker
+adds 1 to time
+repeat same untile time = end_w_hour
