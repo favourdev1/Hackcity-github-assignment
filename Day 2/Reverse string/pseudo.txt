@@ -1,0 +1,8 @@
+Pseudo code to reverse a string
+
+
+-Create variable result as string and arr as array 
+-Take input as string and save in str
+-Convert string to array 
+-Loop through the length of arr and concatenate the values from last to start in result variable.
+-Return result
