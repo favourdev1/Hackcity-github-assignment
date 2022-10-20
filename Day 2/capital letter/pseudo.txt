@@ -1,6 +1,6 @@
 Question write a pseudocode to convert string to capital
 
-- we declare an array of string str and a variable i.
+- we create an array of string char and a variable i.
 - We read the string and then we run while loop to get each character of the string. 
 - We will check if each ASCII value of each character is between the value of a and z.
  -If yes, then subtract 32 from each character to convert them into capital letters.
